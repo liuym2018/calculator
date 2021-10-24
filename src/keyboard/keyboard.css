@@ -1,0 +1,26 @@
+.keyboard {
+  width: 325px;
+  margin: auto;
+}
+
+.calculator-input {
+  text-align: right;
+  height: 4rem;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+.result {
+  font-size: 300%;
+  padding: 0 4px;
+}
+
+button {
+  width: 4rem;
+  height: 4rem;
+  margin: 0.5rem;
+  text-align: center;
+  font-size: 100%;
+  border-radius: 0.8rem;
+  box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem grey;
+}
